@@ -42,13 +42,13 @@ docker-compose up --build
 
 ### Run Locally (Without Docker)
 
-# Start backend
+#### Start backend
 
 cd backend
 npm install
 npx tsx index.ts
 
-# In another terminal, start frontend
+#### In another terminal, start frontend
 
 cd frontend
 npm install
